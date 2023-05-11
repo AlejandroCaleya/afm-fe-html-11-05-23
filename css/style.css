@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+/* para dar caracteristicas segun id = # (id para una cosa) y con class con . (class para varias)(con class se pueden varias class para un mismo elemento) */
+.texto-rojo {
+    color: red;
+}
+#texto-verde {
+    color: green;
+}
+
+.ipsum {
+    font-size: x-large;
+}
